@@ -17,21 +17,21 @@
 // #define LOGGING_SERIAL_RX_PIN 10
 
 // LED -------------------------------------------
-#define TAIL_NUM_LEDS 42
+#define TAIL_NUM_LEDS 30
 #define TAIL_LED_PIN 2
 #define TAIL_LED_TYPE WS2812
 #define TAIL_LED_COLOR_ORDER GRB
 #define TAIL_LED_START_OFFSET 0
 #define TAIL_LED_IS_INVERTED false
 
-#define LEFT_NUM_LEDS 42
+#define LEFT_NUM_LEDS 32
 #define LEFT_LED_PIN 4
 #define LEFT_LED_TYPE WS2812
 #define LEFT_LED_COLOR_ORDER GRB
 #define LEFT_LED_START_OFFSET 0
 #define LEFT_LED_IS_INVERTED false
 
-#define RIGHT_NUM_LEDS 42
+#define RIGHT_NUM_LEDS 32
 #define RIGHT_LED_PIN 3
 #define RIGHT_LED_TYPE WS2812
 #define RIGHT_LED_COLOR_ORDER GRB
